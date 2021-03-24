@@ -1,0 +1,32 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "title": "Sitecostructor.io",
+      "description": "Description",
+      "promoCode": "itpromocodes",
+      "isActivated": false
+    },
+    {
+      "id": "2",
+      "title": "Appvision.com",
+      "description": "Description",
+      "promoCode": "itpromocodes",
+      "isActivated": false
+    },
+    {
+      "id": "3",
+      "title": "Analytics.com",
+      "description": "Description",
+      "promoCode": "itpromocodes",
+      "isActivated": false
+    },
+    {
+      "id": "4",
+      "title": "Logotype",
+      "description": "Description",
+      "promoCode": "itpromocodes",
+      "isActivated": false
+    }
+  ]
+}
